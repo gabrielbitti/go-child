@@ -1,4 +1,4 @@
-module aula1
+module 01_packages
 
 go 1.18
 
